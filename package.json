@@ -1,0 +1,11 @@
+{
+  "name": "@forgeron/marketplace",
+  "private": true,
+  "type": "module",
+  "workspaces": [
+    "tools/*"
+  ],
+  "scripts": {
+    "test": "bun run --filter '*' test"
+  }
+}
