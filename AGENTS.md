@@ -1,4 +1,4 @@
-# marketplace
+# Forgeron marketplace
 
 A Forgeron marketplace: finished tools, one per folder of `tools/`, published as GitHub Releases
 and listed in `forgeron-marketplace.json`. Read [docs/lifecycle.md](docs/lifecycle.md) first.
